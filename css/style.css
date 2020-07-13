@@ -1,7 +1,8 @@
+
 h1{
   margin: 40px 0;
 }
-h3{
+h3, p{
   padding: 15px 0;
 }
 
@@ -12,9 +13,17 @@ img{
 
 
 .row{
-  height: 100%;
   text-align:center;
 }
 .box{
-  padding: 0 50px;
+  min-height: 430px;
+  text-align:center;
+  padding: 20px;
+  margin: auto;
+}
+#img-blue{
+  height: 180px;
+  background-color: #02a4bd;
+  border-radius: 60%;
+  padding: 20px;
 }
