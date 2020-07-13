@@ -6,7 +6,7 @@ h3{
 }
 
 img{
-  height: 200px;
+  height: 150px;
   vertical-align: 15px;
 }
 
@@ -15,6 +15,6 @@ img{
   height: 100%;
   text-align:center;
 }
-/* .left, .right{
+.box{
   padding: 0 50px;
-} */
+}
